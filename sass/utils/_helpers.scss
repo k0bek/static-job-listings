@@ -1,0 +1,27 @@
+.wrapper {
+	margin: 0 auto;
+	max-width: 1200px;
+	width: 100%;
+}
+
+button {
+	border: none;
+	background: none;
+}
+
+.feature {
+	padding: 0.5em;
+	font-size: 1.2rem;
+	border-radius: 20px;
+	text-align: center;
+	color: $white;
+	background-color: $black-shadow;
+}
+
+.offers-desc-details-text {
+	color: $gray;
+}
+
+.offer-line {
+	border-left: 7px solid $dark-cyan-background;
+}
